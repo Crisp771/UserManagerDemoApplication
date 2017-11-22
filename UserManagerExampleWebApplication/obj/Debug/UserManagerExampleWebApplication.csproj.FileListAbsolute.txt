@@ -28,8 +28,6 @@ C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleWebApplication\b
 C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleWebApplication\bin\System.Web.Webpages.Deployment.dll
 C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleWebApplication\bin\System.Web.Webpages.dll
 C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleWebApplication\bin\System.Web.Webpages.Razor.dll
-C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleWebApplication\bin\UserManagerDemoApplication.dll
-C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleWebApplication\bin\UserManagerDemoApplication.pdb
 C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleWebApplication\bin\System.Web.Razor.xml
 C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleWebApplication\bin\System.Web.Webpages.xml
@@ -43,3 +41,5 @@ C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleWebApplication\b
 C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleWebApplication\bin\System.Web.Http.WebHost.xml
 C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleWebApplication\obj\Debug\UserManagerExampleWebApplication.dll
 C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleWebApplication\obj\Debug\UserManagerExampleWebApplication.pdb
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleWebApplication\bin\UserManagerExampleApplication.dll
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleWebApplication\bin\UserManagerExampleApplication.pdb

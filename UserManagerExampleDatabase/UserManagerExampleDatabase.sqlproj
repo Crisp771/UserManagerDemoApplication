@@ -12,8 +12,8 @@
     <OutputType>Database</OutputType>
     <RootPath>
     </RootPath>
-    <RootNamespace>iForceExampleDatabase</RootNamespace>
-    <AssemblyName>iForceExampleDatabase</AssemblyName>
+    <RootNamespace>UserManagerExampleDatabase</RootNamespace>
+    <AssemblyName>UserManagerExampleDatabase</AssemblyName>
     <ModelCollation>1033, CI</ModelCollation>
     <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
     <DeployToDatabase>True</DeployToDatabase>

@@ -1,0 +1,4 @@
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerDemoApplication\bin\Debug\UserManagerExampleApplication.dll
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerDemoApplication\bin\Debug\UserManagerExampleApplication.pdb
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerDemoApplication\obj\Debug\UserManagerExampleApplication.dll
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerDemoApplication\obj\Debug\UserManagerExampleApplication.pdb

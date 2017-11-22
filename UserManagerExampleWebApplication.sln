@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{EBEC507F
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "UserManagerExampleDatabase", "UserManagerExampleDatabase\UserManagerExampleDatabase.sqlproj", "{6BC19407-215A-423B-A85C-5EEAD5423B6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagerDemoApplication", "UserManagerDemoApplication\UserManagerDemoApplication.csproj", "{005D5637-34C1-40BB-9EBA-A78ADDF00326}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagerExampleApplication", "UserManagerDemoApplication\UserManagerExampleApplication.csproj", "{005D5637-34C1-40BB-9EBA-A78ADDF00326}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagerExampleWebApplication", "UserManagerExampleWebApplication\UserManagerExampleWebApplication.csproj", "{A4DD3D3F-5101-4A75-97AA-EB151887C670}"
 EndProject

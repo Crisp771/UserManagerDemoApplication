@@ -1,5 +1,9 @@
 C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\bin\Debug\UserManagerExampleDatabase.dacpac
-C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\bin\Debug\iForceExampleDatabase.dll
-C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\bin\Debug\iForceExampleDatabase.pdb
-C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\obj\Debug\iForceExampleDatabase.dll
-C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\obj\Debug\iForceExampleDatabase.pdb
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\bin\Debug\UserManagerExampleDatabase.dll
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\bin\Debug\UserManagerExampleDatabase.pdb
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\obj\Debug\UserManagerExampleDatabase.dll
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\obj\Debug\UserManagerExampleDatabase.pdb
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\obj\Debug\Model.xml
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\obj\Debug\refactor.xml
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\obj\Debug\postdeploy.sql
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\obj\Debug\predeploy.sql

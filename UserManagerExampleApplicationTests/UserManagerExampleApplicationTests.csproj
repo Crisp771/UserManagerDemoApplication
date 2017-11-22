@@ -7,8 +7,8 @@
     <ProjectGuid>{D8709C15-D637-4109-810B-CC5E83CAC80E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>iForceExampleApplicationTests</RootNamespace>
-    <AssemblyName>iForceExampleApplicationTests</AssemblyName>
+    <RootNamespace>UserManagerExampleApplicationTests</RootNamespace>
+    <AssemblyName>UserManagerExampleApplicationTests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -71,9 +71,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\UserManagerDemoApplication\UserManagerDemoApplication.csproj">
+    <ProjectReference Include="..\UserManagerDemoApplication\UserManagerExampleApplication.csproj">
       <Project>{005d5637-34c1-40bb-9eba-a78addf00326}</Project>
-      <Name>iForceDemoApplication</Name>
+      <Name>UserManagerExampleApplication</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
