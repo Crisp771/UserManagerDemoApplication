@@ -972,7 +972,7 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\UserManagerDemoApplication\UserManagerExampleApplication.csproj">
+    <ProjectReference Include="..\UserManagerExampleApplication\UserManagerExampleApplication.csproj">
       <Project>{005d5637-34c1-40bb-9eba-a78addf00326}</Project>
       <Name>UserManagerExampleApplication</Name>
     </ProjectReference>
