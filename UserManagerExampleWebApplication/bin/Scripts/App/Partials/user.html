@@ -1,0 +1,43 @@
+﻿<form name="userForm" ng-submit="vm.ok()">
+    <div style="padding: 20px;">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <h3>{{vm.dialogTitle}}</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">Name</div>
+            <div class="col-sm-6">
+                <input id="name" name="name" type="text" maxlength="50" ng-model="vm.entity.Name" ng-required="true" />
+                <span style="color:red" ng-show="userForm.name.$dirty && userForm.name.$invalid">
+                    <div ng-show="userForm.name.$error.required">Name is required.</div>
+                    <div ng-show="userForm.name.$error.maxlength">Name must be no more than 50 characters long.</div>
+                </span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">Role</div>
+            <div class="col-sm-6">
+                <select id="roleid" name="roleid" ng-model="vm.entity.RoleId" ng-options="role.Id as role.Name for role in vm.roles" ng-required="true"><option>Select Role</option></select>
+            </div>
+            <div ng-show="userForm.roleid.$error.required">Role is required.</div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">Status</div>
+            <div class="col-sm-6"><select id="statusid" name="statusid" ng-model="vm.entity.StatusId" ng-options="status.Id as status.Name for status in vm.statuses" ng-required="true"><option>Select Status</option></select></div>
+            <div ng-show="userForm.statusid.$error.required">Status is required.</div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 text-left">
+                <button class="btn btn-warning" type="button" ng-click="vm.cancel()">
+                    Cancel
+                </button>
+            </div>
+            <div class="col-sm-6 text-right">
+                <button class="btn btn-primary" type="submit">
+                    Save
+                </button>
+            </div>
+        </div>
+    </div>
+</form>

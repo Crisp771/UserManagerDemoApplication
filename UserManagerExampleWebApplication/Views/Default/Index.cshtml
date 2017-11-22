@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "UserManager Demo";
+}
+
+<div ng-app="UserManagerDemoApp" class="UserManagerdemoapp" ng-controller="gridController">
+    <div class="row">
+        <div class="col-sm-12 text-center"><h3>UserManagerDemoGrid</h3></div>
+    </div>
+    <div class="row">
+        <div class="col-sm-11"></div>
+        <div class="col-sm-1"><button type="button" class="btn btn-default" ng-click="addRow()">Add New</button></div>
+    </div>
+    <div class="row">
+        <div id="userGrid" style="height: 700px;"
+             ui-grid-move-columns
+             ui-grid-selection
+             ui-grid-resize-columns
+             ui-grid-pinning
+             ui-grid-auto-resize
+             ui-grid-edit
+             ui-grid-pagination
+             ui-grid="userGrid"></div>
+    </div>
+    <div class="row text-right">
+        Total rows : {{userGrid.data.length}}
+    </div>
+    <div class="row text-center">
+        <ul uib-pagination total-items="userGrid.totalItems" ng-model="userGrid.paginationCurrentPage"></ul>
+    </div>
+</div>
