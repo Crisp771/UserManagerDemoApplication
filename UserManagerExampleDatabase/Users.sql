@@ -1,0 +1,13 @@
+﻿CREATE TABLE [dbo].[Users]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Name] NVARCHAR(150) NOT NULL, 
+    [RoleId] INT NOT NULL , 
+    [UpdatedAt] DATETIME NOT NULL DEFAULT GETDATE(), 
+    [StatusId] INT NOT NULL,
+	[Deleted] BIT NOT NULL DEFAULT 0, 
+    CONSTRAINT FK_Role FOREIGN KEY (RoleId)
+    REFERENCES Roles(Id),
+	CONSTRAINT FK_Status FOREIGN KEY (StatusId)
+    REFERENCES Statuses(Id)
+)

@@ -1,0 +1,5 @@
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\bin\Debug\UserManagerExampleDatabase.dacpac
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\bin\Debug\iForceExampleDatabase.dll
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\bin\Debug\iForceExampleDatabase.pdb
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\obj\Debug\iForceExampleDatabase.dll
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerExampleDatabase\obj\Debug\iForceExampleDatabase.pdb

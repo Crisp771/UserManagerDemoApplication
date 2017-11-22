@@ -1,0 +1,8 @@
+F:\Users\Cris\Documents\Visual Studio 2015\Projects\iForceExampleWebApplication\iForceExampleApplicationTests\bin\Debug\iForceExampleApplicationTests.dll
+F:\Users\Cris\Documents\Visual Studio 2015\Projects\iForceExampleWebApplication\iForceExampleApplicationTests\bin\Debug\iForceExampleApplicationTests.pdb
+F:\Users\Cris\Documents\Visual Studio 2015\Projects\iForceExampleWebApplication\iForceExampleApplicationTests\bin\Debug\iForceDemoApplication.dll
+F:\Users\Cris\Documents\Visual Studio 2015\Projects\iForceExampleWebApplication\iForceExampleApplicationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Users\Cris\Documents\Visual Studio 2015\Projects\iForceExampleWebApplication\iForceExampleApplicationTests\bin\Debug\iForceDemoApplication.pdb
+F:\Users\Cris\Documents\Visual Studio 2015\Projects\iForceExampleWebApplication\iForceExampleApplicationTests\obj\Debug\iForceExampleApplicationTests.csprojResolveAssemblyReference.cache
+F:\Users\Cris\Documents\Visual Studio 2015\Projects\iForceExampleWebApplication\iForceExampleApplicationTests\obj\Debug\iForceExampleApplicationTests.dll
+F:\Users\Cris\Documents\Visual Studio 2015\Projects\iForceExampleWebApplication\iForceExampleApplicationTests\obj\Debug\iForceExampleApplicationTests.pdb

@@ -1,0 +1,5 @@
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerDemoApplication\obj\Debug\UserManagerDemoApplication.csprojResolveAssemblyReference.cache
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerDemoApplication\bin\Debug\UserManagerDemoApplication.dll
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerDemoApplication\bin\Debug\UserManagerDemoApplication.pdb
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerDemoApplication\obj\Debug\UserManagerDemoApplication.dll
+C:\Repos\Git\UserManagerExampleWebApplication\UserManagerDemoApplication\obj\Debug\UserManagerDemoApplication.pdb

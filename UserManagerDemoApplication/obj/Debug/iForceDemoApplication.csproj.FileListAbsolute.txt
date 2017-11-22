@@ -1,0 +1,5 @@
+F:\Users\Cris\documents\visual studio 2015\Projects\iForceExampleWebApplication\iForceDemoApplication\bin\Debug\iForceDemoApplication.dll
+F:\Users\Cris\documents\visual studio 2015\Projects\iForceExampleWebApplication\iForceDemoApplication\bin\Debug\iForceDemoApplication.pdb
+F:\Users\Cris\documents\visual studio 2015\Projects\iForceExampleWebApplication\iForceDemoApplication\obj\Debug\iForceDemoApplication.csprojResolveAssemblyReference.cache
+F:\Users\Cris\documents\visual studio 2015\Projects\iForceExampleWebApplication\iForceDemoApplication\obj\Debug\iForceDemoApplication.dll
+F:\Users\Cris\documents\visual studio 2015\Projects\iForceExampleWebApplication\iForceDemoApplication\obj\Debug\iForceDemoApplication.pdb
