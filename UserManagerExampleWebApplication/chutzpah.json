@@ -1,0 +1,9 @@
+{
+  "References": [
+    { "Path": "Scripts/js/normalize.js" }
+  ],
+
+  "Tests": [
+    { "Path": "test/normalize_tests.js" }
+  ]
+}
